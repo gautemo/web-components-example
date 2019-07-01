@@ -27,3 +27,6 @@ This is used to keep the component in it's own separate file. Not having to polu
 `watch-http-server`
 
 Open `localhost:8080` in Chrome
+
+## Demo
+[GitHub Pages](https://gautemo.github.io/web-components-example/) in Chrome
